@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-palanquin-dark: "Palanquin Dark";
+  --font-petrona: Petrona;
+  --font-pavanam: Pavanam;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: #1e1e1e;
+  --color-gray-200: rgba(255, 255, 255, 0.75);
+  --color-white: #fff;
+  --color-mediumturquoise: #22cdc1;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+}

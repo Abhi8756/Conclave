@@ -1,0 +1,233 @@
+.enter-your-account,
+.signup1 {
+  position: absolute;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.signup1 {
+  margin: 0;
+  top: 137px;
+  left: 895px;
+  font-size: 45px;
+  font-weight: 700;
+  font-family: var(--font-palanquin-dark);
+  width: 164px;
+  height: 80px;
+}
+.enter-your-account {
+  top: 217px;
+  left: 854px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-pavanam);
+  width: 246px;
+  height: 42px;
+}
+.frame-child {
+  height: 55px;
+  width: 384px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-mediumturquoise);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.email {
+  width: 61px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-petrona);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 17px;
+  position: relative;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  z-index: 2;
+}
+.frame-item,
+.rectangle-parent {
+  width: 384px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-mediumturquoise);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 285px;
+  left: 785px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-xl) var(--padding-lg);
+  z-index: 1;
+}
+.frame-item {
+  height: 55px;
+  position: relative;
+  display: none;
+}
+.password {
+  width: 90px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-petrona);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  height: 17px;
+  position: relative;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  z-index: 2;
+}
+.frame-inner,
+.rectangle-group {
+  position: absolute;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-mediumturquoise);
+  box-sizing: border-box;
+  width: 384px;
+  z-index: 1;
+}
+.rectangle-group {
+  top: 366px;
+  left: 785px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-xl) var(--padding-lg);
+  max-width: 100%;
+}
+.frame-inner {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 10px;
+}
+.re-enter-password {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-petrona);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 19px;
+  left: 0;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 17px;
+  padding: 0;
+  z-index: 2;
+}
+.login-child,
+.rectangle-container {
+  position: absolute;
+  top: 447px;
+  left: 775px;
+  width: 394px;
+  height: 55px;
+}
+.login-child {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: rgba(38, 214, 174, 0.5);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.55);
+}
+.signup2 {
+  height: 25px;
+  width: 54px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-palanquin-dark);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 54px;
+  z-index: 1;
+}
+.login {
+  cursor: pointer;
+  border: 0;
+  padding: 7px var(--padding-xl) 8px;
+  background-color: transparent;
+  position: absolute;
+  top: 528px;
+  left: 785px;
+  width: 384px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.logo-shape-icon {
+  position: absolute;
+  top: -499px;
+  left: -893.8px;
+  width: 1924.6px;
+  height: 1892px;
+  object-fit: contain;
+}
+.httpslottiefilescomanimat-icon {
+  position: absolute;
+  top: 140px;
+  left: 99px;
+  width: 531px;
+  height: 535px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.main-container {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1030.8px;
+}
+.signup {
+  margin: 0;
+  width: 100%;
+  height: 832px;
+  position: relative;
+  background-color: var(--color-gray);
+  overflow: hidden;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 767px) {
+  .signup1 {
+    font-size: 36px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .signup1 {
+    font-size: 27px;
+  }
+  .email,
+  .password {
+    font-size: var(--font-size-base);
+  }
+}

@@ -1,0 +1,160 @@
+.login-child {
+  position: absolute;
+  top: -498.99px;
+  left: -893.81px;
+  width: 1924.62px;
+  height: 1891.98px;
+  object-fit: contain;
+}
+.httpslottiefilescomanimat-icon {
+  position: absolute;
+  top: 111px;
+  left: 68px;
+  width: 543px;
+  height: 671px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.enter-your-account,
+.login1 {
+  position: absolute;
+  display: inline-block;
+}
+.login1 {
+  top: 132px;
+  left: 905px;
+  font-size: 45px;
+  font-family: var(--font-palanquin-dark);
+  width: 134px;
+  height: 80px;
+}
+.enter-your-account {
+  top: 217px;
+  left: 854px;
+  font-family: var(--font-pavanam);
+  width: 246px;
+  height: 42px;
+}
+.login-inner,
+.login-item {
+  border: 1px solid var(--color-mediumturquoise);
+  outline: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+  top: 285px;
+  left: 785px;
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+  width: 384px;
+  height: 68px;
+}
+.login-inner {
+  top: 379px;
+}
+.email {
+  top: 305px;
+  left: 805px;
+  font-size: var(--font-size-xl);
+  width: 61px;
+}
+.dont-have-an,
+.email,
+.forgot-password,
+.password {
+  position: absolute;
+  display: inline-block;
+  height: 17px;
+}
+.password {
+  top: 399px;
+  left: 805px;
+  font-size: var(--font-size-xl);
+  width: 90px;
+}
+.dont-have-an,
+.forgot-password {
+  text-decoration: none;
+  top: 466px;
+  left: 775px;
+  color: inherit;
+  width: 169px;
+}
+.dont-have-an {
+  top: 670px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #58a399;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.55);
+  width: 384px;
+  height: 40px;
+  opacity: 0.5;
+}
+.login2,
+.login3 {
+  position: absolute;
+}
+.login3 {
+  top: 7px;
+  left: 169px;
+  display: inline-block;
+  width: 45px;
+  height: 25px;
+}
+.login2 {
+  top: 517px;
+  left: 785px;
+  width: 384px;
+  height: 40px;
+  font-family: var(--font-palanquin-dark);
+}
+.login-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-200);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.55);
+  width: 80px;
+  height: 40px;
+  opacity: 0.5;
+}
+.login-child1,
+.login4,
+.signup {
+  position: absolute;
+}
+.signup {
+  top: 4px;
+  left: 8px;
+  display: inline-block;
+  width: 63px;
+  height: 25px;
+}
+.login4 {
+  top: 659px;
+  left: 1089px;
+  width: 80px;
+  height: 40px;
+  color: var(--color-gray-200);
+  font-family: var(--font-palanquin-dark);
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-petrona);
+}
